@@ -1,16 +1,16 @@
 LTspice 24.1.6 for Windows
-Circuit: Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab01\Lab 01 Bancada.net
-Start Time: Sun Apr 13 16:51:04 2025
+Circuit: Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab01\Lab 01 Bancada a.net
+Start Time: Tue Apr 15 00:14:37 2025
 solver = Normal
 Maximum thread count: 4
 tnom = 27
 temp = 27
 method = trap
 .OP point found by inspection.
-Total elapsed time: 0.279 seconds.
+Total elapsed time: 0.278 seconds.
 
 Files loaded:
-Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab01\Lab 01 Bancada.net
+Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab01\Lab 01 Bancada a.net
 
 vr1rms: RMS(V(A))=150.014206353 FROM 0 TO 0.0833
 vr2rms: RMS(V(A) - V(B))=149.889928328 FROM 0 TO 0.0833
