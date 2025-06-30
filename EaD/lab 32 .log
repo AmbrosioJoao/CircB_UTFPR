@@ -1,0 +1,23 @@
+LTspice 24.1.6 for Windows
+Circuit: Z:\home\jambrosio\Desktop\Circuitos B\EaD\lab 32 .net
+Start Time: Sun Jun 29 15:26:00 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.298 seconds.
+
+Files loaded:
+Z:\home\jambrosio\Desktop\Circuitos B\EaD\lab 32 .net
+
+vanrms: RMS(V(a))=110.008997663 FROM 0 TO 0.0833
+vbnrms: RMS(V(b))=109.976708614 FROM 0 TO 0.0833
+vcnrms: RMS(V(c))=109.975128748 FROM 0 TO 0.0833
+vabrms: RMS(V(a)-V(b))=190.523444923 FROM 0 TO 0.0833
+vbcrms: RMS(V(b)-V(c))=190.464776451 FROM 0 TO 0.0833
+vcarms: RMS(V(c)-V(a))=190.520709396 FROM 0 TO 0.0833
+irarms: RMS(I(R1))=7.36077312777 FROM 0 TO 0.0833
+irbrms: RMS(I(R2))=7.53648185688 FROM 0 TO 0.0833
+ircrms: RMS(I(R3))=7.3500769268 FROM 0 TO 0.0833

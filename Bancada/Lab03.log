@@ -1,0 +1,22 @@
+LTspice 24.1.6 for Windows
+Circuit: Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab03.net
+Start Time: Tue May 27 11:30:08 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+.OP point found by inspection.
+Total elapsed time: 0.296 seconds.
+
+Files loaded:
+Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab03.net
+
+vr1: RMS(V(B))=126.761338542 FROM 0 TO 0.0833
+vc1: RMS(V(B))=126.761338542 FROM 0 TO 0.0833
+vr2: RMS(V(B))=126.761338542 FROM 0 TO 0.0833
+vl1: RMS(V(A) - V(B))=7.28764402369 FROM 0 TO 0.0833
+il1: RMS(I(L1))=1.66980266532 FROM 0 TO 0.0833
+ir1: RMS(I(R1))=0.603625422137 FROM 0 TO 0.0833
+ic1: RMS(I(C1))=1.14643310649 FROM 0 TO 0.0833
+ir2: RMS(I(R2))=0.610309768306 FROM 0 TO 0.0833

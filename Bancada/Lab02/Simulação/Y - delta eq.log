@@ -1,0 +1,25 @@
+LTspice 24.1.6 for Windows
+Circuit: Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab02\Simulação\Y - delta eq.net
+Start Time: Wed May 21 14:59:48 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n002 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.070 seconds.
+
+Files loaded:
+Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab02\Simulação\Y - delta eq.net
+
+vab: RMS(V(a)-V(b))=218.613131347 FROM 0 TO 0.0833
+vbc: RMS(V(b)-V(c))=218.547624545 FROM 0 TO 0.0833
+vca: RMS(V(c)-V(a))=218.613930993 FROM 0 TO 0.0833
+iab: RMS(I(Ra))=0.451680022876 FROM 0 TO 0.0833
+ibc: RMS(I(Rb))=0.451681675418 FROM 0 TO 0.0833
+ica: RMS(I(Rc))=0.451544678477 FROM 0 TO 0.0833
+ia: RMS(I(R1))=0.782412781942 FROM 0 TO 0.0833
+ib: RMS(I(R2))=0.782175519004 FROM 0 TO 0.0833
+ic: RMS(I(R3))=0.78217838367 FROM 0 TO 0.0833

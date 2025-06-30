@@ -1,0 +1,17 @@
+LTspice 24.1.6 for Windows
+Circuit: Z:\home\jambrosio\Desktop\Circuitos B\EaD\Lab 04\Lab 4 - neutrro.net
+Start Time: Sun May 11 16:38:58 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.067 seconds.
+
+Files loaded:
+Z:\home\jambrosio\Desktop\Circuitos B\EaD\Lab 04\Lab 4 - neutrro.net
+
+van: RMS(V(a))=77.9270299291 FROM 0 TO 0.083
+vbn: RMS(V(b))=77.6812660247 FROM 0 TO 0.083
+vcn: RMS(V(c))=77.7149186703 FROM 0 TO 0.083

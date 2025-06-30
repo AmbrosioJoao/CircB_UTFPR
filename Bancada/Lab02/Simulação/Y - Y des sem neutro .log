@@ -1,0 +1,25 @@
+LTspice 24.1.6 for Windows
+Circuit: Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab02\Y - Y des sem neutro .net
+Start Time: Tue May 20 16:36:53 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n002 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.322 seconds.
+
+Files loaded:
+Z:\home\jambrosio\Desktop\Circuitos B\Bancada\Lab02\Y - Y des sem neutro .net
+
+vanrms: RMS(V(a))=130.688574311 FROM 0 TO 0.0833
+vbnrms: RMS(V(b))=130.655540648 FROM 0 TO 0.0833
+vcnrms: RMS(V(c))=130.650767743 FROM 0 TO 0.0833
+vabrms: RMS(V(a)-V(b))=226.338919863 FROM 0 TO 0.0833
+vbcrms: RMS(V(b)-V(c))=226.278632304 FROM 0 TO 0.0833
+vcarms: RMS(V(c)-V(a))=226.336790718 FROM 0 TO 0.0833
+irarms: RMS(I(R1))=0.380960476165 FROM 0 TO 0.0833
+irbrms: RMS(I(R2))=0.562498846832 FROM 0 TO 0.0833
+ircrms: RMS(I(R3))=0.193697463941 FROM 0 TO 0.0833
